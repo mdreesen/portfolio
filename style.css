@@ -44,6 +44,7 @@ style{
     background: linear-gradient( rgba(44,62,80, 0.7), rgba(149,165,166, 0.7));
     color: whitesmoke;
     font-family: "Montserrat ExtraLight", Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
 }
 
 .about-p {
@@ -52,12 +53,12 @@ style{
 
 img {
     float: left;
-    margin: 5px 10px;
-    padding: 0;
+    margin: 35px 25px;
+    padding: 10px;
     z-index: -2;
     border-block-color: black;
     border: solid 3px;
-    border-radius: 50%;
+    border-radius: 50px;
 }
 
 .about-me {
