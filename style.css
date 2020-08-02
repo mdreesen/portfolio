@@ -11,7 +11,7 @@ nav{
     align-items: center;
     min-height: 8vh;
     background-color: #333;
-    font-family: "Montserrat ExtraLight", Georgia, 'Times New Roman', Times, serif;
+    font-family: "Montserrat", Georgia, 'Times New Roman', Times, serif;
     margin: 0;
     padding: 20 0;
     border: 0;
@@ -37,13 +37,13 @@ style{
     overflow: hidden;
     padding: .1%;
     border: 0;
-    font-family: "Montserrat ExtraLight", Georgia, 'Times New Roman', Times, serif;
+    font-family: "Montserrat", Georgia, 'Times New Roman', Times, serif;
 }
 
 .img-about{
     background: linear-gradient( rgba(44,62,80, 0.7), rgba(149,165,166, 0.7));
     color: whitesmoke;
-    font-family: "Montserrat ExtraLight", Georgia, 'Times New Roman', Times, serif;
+    font-family: "Montserrat", Georgia, 'Times New Roman', Times, serif;
     border-radius: 20px;
 }
 
@@ -62,7 +62,7 @@ img {
 }
 
 .about-me {
-    font-family: "Montserrat ExtraLight", Georgia, 'Times New Roman', Times, serif;
+    font-family: "Montserrat", Georgia, 'Times New Roman', Times, serif;
     padding: 0 10px;
     color: white;
     font-weight: bolder;
@@ -70,7 +70,7 @@ img {
 
 .p {
     color: #D8D8D8;
-    font-family: "Montserrat ExtraLight", Georgia, 'Times New Roman', Times, serif;
+    font-family: "Montserrat", Georgia, 'Times New Roman', Times, serif;
     filter: drop-shadow(2px 4px 6px white);
     font-weight: bolder;
 }
@@ -105,7 +105,7 @@ section {
 
 h2 {
     padding: 0 10px;
-    font-family: "Montserrat ExtraLight", Georgia, 'Times New Roman', Times, serif;
+    font-family: "Montserrat", Georgia, 'Times New Roman', Times, serif;
     padding: 2px 20px;
     color: white;
     
