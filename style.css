@@ -2,7 +2,7 @@
     overflow: hidden;
     margin: 0;
     padding: 0;
-    overflow: scroll;
+    overflow: auto;
 }
 
 nav {
@@ -104,6 +104,7 @@ style {
 }
 
 body {
+    overflow: auto;
     margin: 0 0;
     background-color: whitesmoke;
     background-image: url(./images/adrien-olichon-9zhsq3o1k60-unsplash.jpg);
@@ -269,7 +270,6 @@ h2 {
 }
 
 .contact {
-    overflow: scroll;
     align-items: center;
     font-family: "Montserrat", Georgia, 'Times New Roman', Times, serif;
     padding: 20 100%;
